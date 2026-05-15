@@ -1,1 +1,3 @@
-import "./styles.css";
+export function fibs(n){
+    return [];
+}
