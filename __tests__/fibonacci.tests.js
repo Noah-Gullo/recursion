@@ -1,4 +1,4 @@
-import {fibs, fibsRec} from "../src/index.js"
+import {fibs, fibsRec} from "../src/fibonacci.js"
 
 test("Iterative cases when 0 < n < 3", () => {
     expect(fibs(1)).toEqual([0]);
